@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.rest-name {
+  margin: 100px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.rest-address {
+  text-align: right;
+  margin-right: 30px;
+  font-size: 18px;
+}
+
+.menu-pic {
+  float: left;
+  width: 40%;
+  margin-left: 40px;
+}
+
+.menu-name,
+.reason {
+  float: right;
+  width: 40%;
+  margin-right: 40px;
+  text-align: center;
+}
+
+.rest-address,
+.naver-map {
+  clear: both;
+}
+
+.rest-address {
+  text-align: center;
+  padding-top: 60px;
+}
+
+.naver-map {
+  text-align: center;
+}
+
+.rest-pic {
+  display: block;
+  width: 80%;
+  margin: 20px auto;
+}
